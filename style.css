@@ -1,3 +1,11 @@
+* {
+    font-family: 'Lobster', cursive;
+}
+
 .main-title {
     color: #00cccc;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
 }
